@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   aks-helloworld:
   - apiVersion: v1
-    created: "2020-11-17T12:31:06.494574+01:00"
+    created: "2020-11-17T12:34:59.202228+01:00"
     description: A Helm chart for Kubernetes
     digest: dabc0b3efb9a4b69aa0f70bbb642be3d21f45914683c36caf283df7b0b93a862
     name: aks-helloworld
@@ -11,11 +11,11 @@ entries:
     version: 0.1.0
   gke-helloworld:
   - apiVersion: v1
-    created: "2020-11-17T12:31:06.494757+01:00"
+    created: "2020-11-17T12:34:59.202395+01:00"
     description: A Helm chart for Kubernetes
     digest: 97686838a920a27a77d240ea99b0ce14516f4077d12f57e982c49c2871513e61
     name: gke-helloworld
     urls:
     - https://alterway.github.io/helm-charts/packages/gke-helloworld-0.1.1.tgz
     version: 0.1.1
-generated: "2020-11-17T12:31:06.494257+01:00"
+generated: "2020-11-17T12:34:59.20191+01:00"
