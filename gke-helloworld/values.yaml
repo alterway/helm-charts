@@ -1,0 +1,6 @@
+# UI controll
+title: "Welcome to Google Kubernetes Service (GKE)"
+
+# Service controlls
+serviceName: GKE-helloworld
+serviceType: ClusterIP
