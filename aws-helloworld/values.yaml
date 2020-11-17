@@ -1,0 +1,6 @@
+# UI controll
+title: "Welcome to EKS Kubernetes Service (AWS)"
+
+# Service controlls
+serviceName: aws-helloworld
+serviceType: ClusterIP

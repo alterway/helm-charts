@@ -1,6 +1,6 @@
-# gke-helloworld
+# aws-helloworld
 
-Simple gke-helloworld chart.
+Simple aws-helloworld chart.
 
 ## Installing the Chart
 
@@ -13,7 +13,7 @@ helm repo add alterway https://alterway.github.io/helm-charts
 Install the chart.
 
 ```
-helm install alterway/gke-helloworld
+helm install alterway/aws-helloworld
 ```
 
 
@@ -24,5 +24,5 @@ The following tables lists the configurable parameters of the azure-vote chart a
 | Parameter | Description | Default |
 |---|---|---|
 | title | Title for hello world app. | Azure Vote App |
-| serviceName | Name for Kubernetes service. | gke-helloworld |
+| serviceName | Name for Kubernetes service. | aws-helloworld |
 | serviceType | Type for Kubernetes service. | ClusterIP |
