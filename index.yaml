@@ -3,7 +3,7 @@ entries:
   aks-helloworld:
   - apiVersion: v1
     created: "2020-11-17T12:34:59.202228+01:00"
-    description: A Helm chart for Kubernetes
+    description: A Helm chart for Kubernetes (aks)
     digest: dabc0b3efb9a4b69aa0f70bbb642be3d21f45914683c36caf283df7b0b93a862
     name: aks-helloworld
     urls:
@@ -12,7 +12,7 @@ entries:
   gke-helloworld:
   - apiVersion: v1
     created: "2020-11-17T12:34:59.202395+01:00"
-    description: A Helm chart for Kubernetes
+    description: A Helm chart for Kubernetes (gke)
     digest: 97686838a920a27a77d240ea99b0ce14516f4077d12f57e982c49c2871513e61
     name: gke-helloworld
     urls:

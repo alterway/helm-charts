@@ -1,6 +1,6 @@
-# aks-helloworld
+# gke-helloworld
 
-Simple aks-helloworld chart.
+Simple gke-helloworld chart.
 
 ## Installing the Chart
 
@@ -13,7 +13,7 @@ helm repo add azure-samples https://azure-samples.github.io/helm-charts/
 Install the chart.
 
 ```
-helm install azure-samples/aks-helloworld
+helm install azure-samples/gke-helloworld
 ```
 
 
@@ -24,5 +24,5 @@ The following tables lists the configurable parameters of the azure-vote chart a
 | Parameter | Description | Default |
 |---|---|---|
 | title | Title for hello world app. | Azure Vote App |
-| serviceName | Name for Kubernetes service. | aks-helloworld |
+| serviceName | Name for Kubernetes service. | gke-helloworld |
 | serviceType | Type for Kubernetes service. | ClusterIP |
